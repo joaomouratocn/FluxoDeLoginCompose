@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginScreenCompose</string>
+    <string name="str_insert_your_password">Insira a senha</string>
+    <string name="str_your_password_must_contain_at_least_8_letters_including_uppercase_lowercase_and_special_characters">* Sua senha deve conter no minimo 8 letras, sendo maiúscilas, minúsculas e caracteres especiais</string>
+    <string name="str_login">Acessar</string>
+    <string name="str_register">Cadastrar</string>
+    <string name="str_logo_image">Imagem logo</string>
+    <string name="str_password">Senha</string>
+    <string name="str_image_view_password">Imagem senha</string>
+    <string name="str_username">Usuário</string>
+    <string name="str_image_account">Imagem conta</string>
+    <string name="str_insert_your_name">Insira seu nome</string>
+    <string name="str_insert_your_username">Insirar nome de usuário</string>
+    <string name="str_insert_your_best_email">Insira seu melhor email</string>
+    <string name="str_hello">Olá %1s</string>
+</resources>

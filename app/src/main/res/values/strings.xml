@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginScreenCompose</string>
+    <string name="str_login">Login</string>
+    <string name="str_register">Register</string>
+    <string name="str_logo_image">Logo Image</string>
+    <string name="str_password">Password</string>
+    <string name="str_image_view_password">Image view password</string>
+    <string name="str_username">Username</string>
+    <string name="str_image_account">Image Account</string>
+    <string name="str_insert_your_name">Insert your name</string>
+    <string name="str_insert_your_username">Insert your username</string>
+    <string name="str_insert_your_password">Insert your password</string>
+    <string name="str_your_password_must_contain_at_least_8_letters_including_uppercase_lowercase_and_special_characters"> * Your password must contain at least 8 letters, including uppercase, lowercase and special characters.</string>
+    <string name="str_insert_your_best_email">Insert your best email</string>
+    <string name="str_hello">Hello %1s</string>
+</resources>
